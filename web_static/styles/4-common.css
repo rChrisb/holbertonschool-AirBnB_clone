@@ -8,8 +8,9 @@ body {
 
 .container {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
   max-width: 1000px;
   margin: 30px auto;
 }
