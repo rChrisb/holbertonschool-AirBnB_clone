@@ -44,6 +44,7 @@
   border-bottom: 1px solid #dddddd;
   border-top: 1px solid #dddddd;
   display: inline-flex;
+  padding-bottom: 60px;
 }
 .information .max_guest {
   width: 100px;
