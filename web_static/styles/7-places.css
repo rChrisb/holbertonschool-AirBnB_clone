@@ -1,4 +1,4 @@
-.places div {
+.places .articles {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
